@@ -1,7 +1,7 @@
 
 # What this is
 
-This repo accompanies an answer on Stack Overflow, showing how to use UIScrollView, Auto Layout, and layout guides to position content so that it can scroll under a translucent nav bar.
+This repo accompanies an answer on Stack Overflow ( http://stackoverflow.com/questions/23508957/working-with-top-layout-guide-in-uiscrollview-through-auto-layout/26165391#26165391 ), showing how to use UIScrollView, Auto Layout, and layout guides to position content so that it can scroll under a translucent nav bar.
 
 The project "temo" shows it done in the way I describe below.
 
